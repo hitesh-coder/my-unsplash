@@ -32,6 +32,8 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
+- [clone](#How to clone?)
+
 
 <!-- OVERVIEW -->
 
@@ -62,3 +64,18 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - [Website](https://sheltered-ocean-83829.herokuapp.com/)
 - GitHub [HITESH](https://github.com/hitesh-coder)
+
+## How to clone?
+
+Fork and clone backend & front end repo's and run ```npm install``` in both root and client directory.
+
+your file structure should look something like this.
+
+<img width="230" alt="Screenshot 2021-08-20 at 7 20 13 PM" src="https://user-images.githubusercontent.com/58116679/130243503-4a548fce-664e-4677-8ba0-411fe4e89000.png">
+
+In root directory rename .env_sample to .env and add your own *MONGO_URI* & *AUTHOR_PASSWORD*.
+
+Run vue app with ```npm run serve``` and server with ```npm run dev```
+
+Now app should run on localhost:8080 ✌️
+
