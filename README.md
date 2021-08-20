@@ -32,7 +32,7 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [clone](#how-to-clone?)
+- [How to clone?](#how-to-clone?)
 
 
 <!-- OVERVIEW -->
